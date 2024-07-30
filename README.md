@@ -30,13 +30,16 @@ I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tn
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+<h3>My CV</h3>
+CV
+
 <h3>Portfolio</h3>
 
 - [Test Documentation](https://your-link-to-test-documentation)
-- [Checklists](https://your-link-to-checklists)
-- [Test Cases](https://your-link-to-test-cases)
-- [Bug Reports](https://your-link-to-bug-reports)
-- [Databases](https://your-link-to-databases)
+- [Checklists](https://github.com/tnikotenko/Checklists)
+- [Test Cases](https://github.com/tnikotenko/Test-Cases)
+- [Bug Reports](https://github.com/tnikotenko/Bug-Reports)
+- [Databases](https://github.com/tnikotenko/Databases)
 
 <h3>My Contact</h3>
 
