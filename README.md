@@ -7,7 +7,7 @@ I completed EPAM courses in functional testing and introduction to automation. C
 Before starting my career in testing, I gained experience in design. This allows me to see the product from different perspectives, understand both business goals and user needs, and contribute ideas for product development.
 
 In my free time, I study English, attend online IT conferences and meetups.  
-I also maintain a professional blog on LinkedIn and Instagram.
+I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tnikotenko/) and [Instagram](https://www.instagram.com/tnikotenko/).
 
 ## Skills
 
