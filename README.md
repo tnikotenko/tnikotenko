@@ -9,7 +9,7 @@ Before starting my career in testing, I gained experience in design. This allows
 In my free time, I study English, attend online IT conferences and meetups.  
 I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tnikotenko/) and [Instagram](https://www.instagram.com/tnikotenko/).
 
-## Skills
+<h3>Skills</h3>
 
 ![TestRail](https://img.shields.io/badge/TestRail-000?style=flat-square&logo=testrail&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -30,7 +30,7 @@ I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tn
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Portfolio
+<h3>Portfolio</h3>
 
 - [Test Documentation](https://your-link-to-test-documentation)
 - [Checklists](https://your-link-to-checklists)
@@ -38,8 +38,9 @@ I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tn
 - [Bug Reports](https://your-link-to-bug-reports)
 - [Databases](https://your-link-to-databases)
 
-## My Contact
+<h3>My Contact</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tnikotenko/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tnikotenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+
