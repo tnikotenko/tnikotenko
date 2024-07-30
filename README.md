@@ -29,3 +29,20 @@ I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tn
 ![Mac](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+## My CV
+
+## Portfolio
+
+- [Test Documentation](https://your-link-to-test-documentation) ![Test Documentation](https://img.shields.io/badge/Documentation-4A90E2?style=flat-square&logo=readthedocs&logoColor=white)
+- [Checklists](https://your-link-to-checklists) ![Checklists](https://img.shields.io/badge/Checklists-4A90E2?style=flat-square&logo=todoist&logoColor=white)
+- [Test Cases](https://your-link-to-test-cases) ![Test Cases](https://img.shields.io/badge/Test_Cases-4A90E2?style=flat-square&logo=testing&logoColor=white)
+- [Bug Reports](https://your-link-to-bug-reports) ![Bug Reports](https://img.shields.io/badge/Bug_Reports-4A90E2?style=flat-square&logo=bugsnag&logoColor=white)
+- [Databases](https://your-link-to-databases) ![Databases](https://img.shields.io/badge/Databases-4A90E2?style=flat-square&logo=mysql&logoColor=white)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tnikotenko/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tnikotenko/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+
