@@ -1,3 +1,16 @@
+<h3>Hello everyone! ✨</h3>
+
+My name is Tatyana, and I am a QA engineer. I specialize in testing websites and web applications. I have experience in functional and regression testing, as well as in design, usability, and user experience testing.
+
+I completed EPAM courses in functional testing and introduction to automation. Currently, I am continuing my education with courses in Python and automated testing.
+
+Before starting my career in testing, I gained experience in design. This allows me to see the product from different perspectives, understand both business goals and user needs, and contribute ideas for product development.
+
+In my free time, I study English, attend online IT conferences and meetups.  
+I also maintain a professional blog on LinkedIn and Instagram.
+
+## Skills
+
 ![TestRail](https://img.shields.io/badge/TestRail-000?style=flat-square&logo=testrail&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
