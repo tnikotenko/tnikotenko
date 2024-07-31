@@ -1,8 +1,8 @@
 <h3>Hello everyone! ✨</h3>
 
-My name is Tatyana, and I am a QA engineer. I specialize in testing websites and web applications. I have experience in functional and regression testing, as well as in design, usability, and user experience testing.
+My name's Tatiana, and I'm a QA engineer. I specialize in testing websites and web applications. I have experience in functional and regression testing, as well as in design, usability, and user experience testing.
 
-I completed EPAM courses in functional testing and introduction to automation. Currently, I am continuing my education with courses in Python and automated testing.
+I completed EPAM courses in functional testing and introduction to automation. Currently, I'm continuing my education with courses in Python and automated testing.
 
 Before starting my career in testing, I gained experience in design. This allows me to see the product from different perspectives, understand both business goals and user needs, and contribute ideas for product development.
 
