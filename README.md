@@ -35,7 +35,6 @@ CV
 
 <h3>Portfolio</h3>
 
-- [Test Documentation](https://your-link-to-test-documentation)
 - [Checklists](https://github.com/tnikotenko/Checklists)
 - [Test Cases](https://github.com/tnikotenko/Test-Cases)
 - [Bug Reports](https://github.com/tnikotenko/Bug-Reports)
