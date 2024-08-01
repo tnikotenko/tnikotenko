@@ -31,6 +31,7 @@ I also maintain a professional blog on [LinkedIn](https://www.linkedin.com/in/tn
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 <h3>My CV</h3>
+
 - [CV](https://github.com/tnikotenko/CV)
 
 <h3>Portfolio</h3>
